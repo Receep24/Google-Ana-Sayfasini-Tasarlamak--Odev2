@@ -1,0 +1,67 @@
+.img {
+    text-align: center;
+}
+main p {
+    text-align: center;
+}
+.form1 {
+    text-align: center;
+}
+.text1 {
+    width: 400px;
+}
+.btn1 {
+    margin-top: 5px;
+}
+.box1 {
+float: left;
+background-color: aqua;
+width: 300px;
+text-align: center;
+height: 130px;
+margin-top: 25px;
+
+}
+
+.box2 {
+float: left;
+margin-left: 5px;
+width: 400px;
+background-color: aquamarine;
+text-align: center;
+margin-top: 25px;
+height: 130px;
+}
+
+.box3 {
+margin-left: 5px;
+width: 600px;
+float: left;
+background-color: darkcyan;
+text-align: center;
+margin-top: 25px;
+height:130px;
+}
+footer  {
+text-align: center;
+float: left; 
+ margin-left:680px;
+}
+
+ul {
+    list-style-type: none;
+}
+.genel {
+    text-align: center;
+    margin-left: 150px;
+    margin-top: 0px;
+}
+.box2 li {
+    margin-top: 5px;
+}
+ main {
+     background-color: darkgray;
+     text-align: center;
+     width: 1310px;
+     
+ }
